@@ -5,3 +5,7 @@
 function cheerio($announcement) {
 	die($announcement);
 }
+
+function announce($announcement) {
+	echo($announcement);
+}
